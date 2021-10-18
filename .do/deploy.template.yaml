@@ -5,6 +5,6 @@ spec:
     environment_slug: node-js
     github:
       branch: main
-      repo: GeopJr/argyle
+      repo: uvacoder/argyle
     name: argyle
     run_command: yarn start
