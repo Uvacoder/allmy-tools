@@ -57,7 +57,12 @@ export default {
   components: true,
   // Reduces vuetify size apparently
   build: {
-    extractCSS: true
+    extractCSS: true,
+    extend(config, {}) {
+        config.node = {
+            fs: 'empty'
+        }
+    }
   },
   buildModules: [
     '@nuxtjs/eslint-module',
