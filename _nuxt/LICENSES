@@ -1,6 +1,3 @@
-/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
-
-
 /*! *****************************************************************************
     Copyright (c) Microsoft Corporation.
 
@@ -42,17 +39,97 @@
  */
 
 
-/*!
-  * vue-router v3.5.1
-  * (c) 2021 Evan You
-  * @license MIT
-  */
+/*! For license information please see index.browser.js.LICENSE.txt */
+
+
+/**
+	 * @license
+	 * Copyright Google LLC All Rights Reserved.
+	 *
+	 * Use of this source code is governed by an MIT-style license that can be
+	 * found in the LICENSE file at https://angular.io/license
+	 */
+
+
+/**
+	   * @license
+	   * Copyright Google Inc. All Rights Reserved.
+	   *
+	   * Use of this source code is governed by an MIT-style license that can be
+	   * found in the LICENSE file at https://angular.io/license
+	   */
+
+/**
+	 * @license
+	 * Copyright Google Inc. All Rights Reserved.
+	 *
+	 * Use of this source code is governed by an MIT-style license that can be
+	 * found in the LICENSE file at https://angular.io/license
+	 */
 
 /*!
- * Vue.js v2.6.12
- * (c) 2014-2020 Evan You
+     * Determine if an object is a Buffer
+     *
+     * @author   Feross Aboukhadijeh <https://feross.org>
+     * @license  MIT
+     */
+
+/*!
+     * repeat-string <https://github.com/jonschlinkert/repeat-string>
+     *
+     * Copyright (c) 2014-2015, Jon Schlinkert.
+     * Licensed under the MIT License.
+     */
+
+
+/*!
+ * vue-client-only v2.0.0
+ * (c) 2019-present egoist <0x142857@gmail.com>
  * Released under the MIT License.
  */
+
+/*!
+ * vue-no-ssr v1.1.1
+ * (c) 2018-present egoist <0x142857@gmail.com>
+ * Released under the MIT License.
+ */
+
+
+/*! *****************************************************************************
+	Copyright (c) Microsoft Corporation.
+
+	Permission to use, copy, modify, and/or distribute this software for any
+	purpose with or without fee is hereby granted.
+
+	THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+	REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+	AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+	INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+	LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+	OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+	PERFORMANCE OF THIS SOFTWARE.
+	***************************************************************************** */
+
+/**
+	   * @license
+	   * Copyright Google Inc. All Rights Reserved.
+	   *
+	   * Use of this source code is governed by an MIT-style license that can be
+	   * found in the LICENSE file at https://angular.io/license
+	   */
+
+
+/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <http://feross.org>
+ * @license  MIT
+ */
+
+/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
 
 /*! *****************************************************************************
@@ -71,20 +148,6 @@ PERFORMANCE OF THIS SOFTWARE.
 ***************************************************************************** */
 
 
-/*!
-     * Determine if an object is a Buffer
-     *
-     * @author   Feross Aboukhadijeh <https://feross.org>
-     * @license  MIT
-     */
-
-/*!
-     * repeat-string <https://github.com/jonschlinkert/repeat-string>
-     *
-     * Copyright (c) 2014-2015, Jon Schlinkert.
-     * Licensed under the MIT License.
-     */
-
 /*! *****************************************************************************
   Copyright (c) Microsoft Corporation.
 
@@ -101,22 +164,6 @@ PERFORMANCE OF THIS SOFTWARE.
   ***************************************************************************** */
 
 /**
-	   * @license
-	   * Copyright Google Inc. All Rights Reserved.
-	   *
-	   * Use of this source code is governed by an MIT-style license that can be
-	   * found in the LICENSE file at https://angular.io/license
-	   */
-
-/**
-	 * @license
-	 * Copyright Google Inc. All Rights Reserved.
-	 *
-	 * Use of this source code is governed by an MIT-style license that can be
-	 * found in the LICENSE file at https://angular.io/license
-	 */
-
-/**
 	 * @license
 	 * Copyright Google LLC All Rights Reserved.
 	 *
@@ -124,44 +171,24 @@ PERFORMANCE OF THIS SOFTWARE.
 	 * found in the LICENSE file at https://angular.io/license
 	 */
 
-/**
-     * @license
-     * Copyright Google Inc. All Rights Reserved.
-     *
-     * Use of this source code is governed by an MIT-style license that can be
-     * found in the LICENSE file at https://angular.io/license
-     */
-
-/**
-   * @license
-   * Copyright Google Inc. All Rights Reserved.
-   *
-   * Use of this source code is governed by an MIT-style license that can be
-   * found in the LICENSE file at https://angular.io/license
-   */
+  THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+  REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+  AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+  INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+  OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+  PERFORMANCE OF THIS SOFTWARE.
+  ***************************************************************************** */
 
 
 /*!
- * The buffer module from node.js, for the browser.
- *
- * @author   Feross Aboukhadijeh <http://feross.org>
- * @license  MIT
- */
-
-/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
-
-
-/*! For license information please see index.browser.js.LICENSE.txt */
-
+  * vue-router v3.5.1
+  * (c) 2021 Evan You
+  * @license MIT
+  */
 
 /*!
- * vue-client-only v2.0.0
- * (c) 2019-present egoist <0x142857@gmail.com>
- * Released under the MIT License.
- */
-
-/*!
- * vue-no-ssr v1.1.1
- * (c) 2018-present egoist <0x142857@gmail.com>
+ * Vue.js v2.6.12
+ * (c) 2014-2020 Evan You
  * Released under the MIT License.
  */
