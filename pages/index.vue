@@ -3,7 +3,7 @@
     <v-col cols="12" sm="8" md="6">
       <v-card>
         <v-card-title class="headline">
-          Welcome to Argyle - The ALL-IN-ONE toolkit!
+          Welcome abc to Argyle - The ALL-IN-ONE toolkit!
         </v-card-title>
         <v-card-text>
           <p>
