@@ -50,7 +50,7 @@
             >
           </nuxt-link>
         </template>
-        <span>Home</span>
+        <span>abcHome</span>
       </v-tooltip>
     </v-app-bar>
     <transition name="fade" appear>
@@ -84,7 +84,7 @@ export default {
   data () {
     return {
       drawer: false,
-      me: 'https://geopjr.dev/',
+      me: 'https://argyle-2.vercel.app/',
       title: 'Argyle',
       items: Routes
     }
