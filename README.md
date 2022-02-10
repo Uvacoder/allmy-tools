@@ -1,5 +1,7 @@
 https://argyle.geopjr.dev
 
+- https://github.com/GeopJr/argyle
+
 <p align="center">
   <img alt="argyle branding" src="https://i.imgur.com/kHLp1Ob.png">
 </p>
