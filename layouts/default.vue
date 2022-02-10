@@ -50,7 +50,7 @@
             >
           </nuxt-link>
         </template>
-        <span>abcHome</span>
+        <span>Home</span>
       </v-tooltip>
     </v-app-bar>
     <transition name="fade" appear>
@@ -63,7 +63,7 @@
     <v-footer app absolute rounded padless>
       <v-card flat tile class="text-center c-footer">
         <v-card-text class="pa-3">
-          <strong class="accent--text">&copy;</strong> {{ new Date().getFullYear() }} - <strong><a :href="me" style="color: #a89df9; text-decoration: none;">GeopJr</a></strong> with <v-icon class="accent--text" medium>
+          <strong class="accent--text">&copy;</strong> {{ new Date().getFullYear() }} - <strong><a :href="me" style="color: #a89df9; text-decoration: none;">uvacoder</a></strong> with <v-icon class="accent--text" medium>
             mdi-heart
           </v-icon>,
           <v-icon class="accent--text" medium>
@@ -84,8 +84,8 @@ export default {
   data () {
     return {
       drawer: false,
-      me: 'https://argyle-2.vercel.app/',
-      title: 'Argyle',
+      me: 'https://allmy-tools.vercel.app/',
+      title: 'allmyTools',
       items: Routes
     }
   }
