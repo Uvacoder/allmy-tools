@@ -3,7 +3,7 @@
     <v-col cols="12" sm="8" md="6">
       <v-card>
         <v-card-title class="headline">
-          Welcome abc to Argyle - The ALL-IN-ONE toolkit!
+          Welcome to allmy-Tools - A great collection of programming tools!
         </v-card-title>
         <v-card-text>
           <p>
@@ -27,7 +27,7 @@
           <v-spacer />
           <v-btn
             color="#24292e"
-            href="https://github.com/GeopJr/argyle"
+            href="https://github.com/uvacoder/allmy-tools"
             target="_blank"
             rel="noopener"
           >
