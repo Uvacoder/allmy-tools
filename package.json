@@ -18,7 +18,7 @@
     "@nastyox/rando.js": "^2.0.5",
     "@prettier/plugin-php": "^0.18.0",
     "axios": "^0.25.0",
-    "core-js": "^3.21.0",
+    "core-js": "^3.22.5",
     "crypto-js": "^4.1.1",
     "csso": "^5.0.2",
     "javascript-obfuscator": "^3.2.5",
